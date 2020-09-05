@@ -16,7 +16,6 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Dell | SDE | Palo Alto, California | https://jobs.dell.com/job/palo-alto/new-grad-software-engineer-launch/375/16780645 | 
 | DiDi labs | SDE | Mountain View, CA | https://boards.greenhouse.io/didi/jobs/2281086 |
 | Expedia | SDE/DS/DA/PM | Multiple | https://lifeatexpediagroup.com/jobs?keyword=NEW%20GRAD
-| Expedia | SDE/DS/DA/PM | Multiple | https://lifeatexpediagroup.com/jobs?keyword=NEW%20GRAD
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
 | Figma | SDE | SF/NY/REMOTE  | https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3 |
 | IMC Financial Markets | SDE | Chicago | https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer |
