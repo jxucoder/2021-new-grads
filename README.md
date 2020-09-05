@@ -1,6 +1,8 @@
 # 2021-new-grads
 A curated list of 2021 New Grad positions
 
+To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
+
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
