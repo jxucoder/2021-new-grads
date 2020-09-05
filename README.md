@@ -10,6 +10,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Applied Intuition | SDE | Mountain View | https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3 |
 | Benchling | SDE | SF/NYC | https://www.benchling.com/careers/?gh_jid=2235318#detail |
 | Coinbase | SDE | Remote | https://www.coinbase.com/careers/positions/1724688 |
+| Collins Aerospace | SDE | Cedar Rapids, IA | https://jobs.collinsaerospace.com/job/cedar-rapids/new-grad-software-engineer-cryptography/1738/17111512 | 
 | Datadog | SDE | Boston, NYC | https://www.datadoghq.com/careers/detail/?gh_jid=1826267 |
 | Expedia | SDE/DS/DA/PM | Multiple | https://lifeatexpediagroup.com/jobs?keyword=NEW%20GRAD
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
