@@ -18,6 +18,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
 | Figma | SDE | SF/NY/REMOTE  | https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3 |
 | IMC Financial Markets | SDE | Chicago | https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer |
+| IXL Learning | SDE | San Mateo | https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-ixl-learning-1967281839/ |
 | Koder | SDE | remote | https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-koder-2009704560 |
 | L3Harris Technologies | SDE | Centreville, VA | https://careers.l3harris.com/job/-/-/4832/17160824 |
 | MangoDB | SDE | NYC | https://www.mongodb.com/careers/jobs/2309034 |
