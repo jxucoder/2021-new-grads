@@ -9,6 +9,7 @@ A curated list of 2021 New Grad positions
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
 | Figma | SDE | SF/NY/REMOTE  | https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3 |
 | Nand Capital | SDE | SF | https://angel.co/company/nand-capital/jobs/769774-software-engineer-new-grad |
+| Neeva | SDE | MOUNTAIN VIEW | https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49 |
 | Paid | SDE | SF | https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d |
 | Palantir | SDE | PALO ALTO, CA | https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0 |
 | PayPal | SDE | Multiple | https://paypalcareers.dejobs.org/software-engineer-university-graduate/jobs-in/usa/jobs/ | 
