@@ -11,6 +11,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Benchling | SDE | SF/NYC | https://www.benchling.com/careers/?gh_jid=2235318#detail |
 | Coinbase | SDE | Remote | https://www.coinbase.com/careers/positions/1724688 |
 | Datadog | SDE | Boston, NYC | https://www.datadoghq.com/careers/detail/?gh_jid=1826267 |
+| Expedia | SDE/DS/DA/PM | Multiple | https://lifeatexpediagroup.com/jobs?keyword=NEW%20GRAD
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
 | Figma | SDE | SF/NY/REMOTE  | https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3 |
 | MangoDB | SDE | NYC | https://www.mongodb.com/careers/jobs/2309034 |
