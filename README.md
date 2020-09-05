@@ -6,3 +6,5 @@ A curated list of 2021 New Grad positions
 | --- | --- | --- | --- |
 | Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | https://grnh.se/c48d8f7c3us |
 | Robinhood | Multiple SDE and Data positions | Meno Park, CA | https://careers.robinhood.com/openings |
+| Wish | SDE and Data Scientist | Toronto, SF | https://www.wish.com/careers/jobs |
+
