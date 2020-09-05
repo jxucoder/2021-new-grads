@@ -15,6 +15,7 @@ A curated list of 2021 New Grad positions
 | Robinhood | Multiple SDE and Data positions | Meno Park, CA | https://careers.robinhood.com/openings |
 | Scale AI | SDE | SF | https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27 |
 | Stripe | SDE | Dublin, New York City, San Francisco, Seattle, Singapore | https://stripe.com/jobs/search?q=NEW+GRAD |
+| ThriveCash | SDE | SF | https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb |
 | VMware | SDE | Palo Alto | https://careers.vmware.com/jobs/R2009349 |
 | Wish | SDE and Data Scientist | Toronto, Seattle, and SF | https://www.wish.com/careers/jobs |
 
