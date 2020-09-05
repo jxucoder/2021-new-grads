@@ -13,6 +13,7 @@ A curated list of 2021 New Grad positions
 | PayPal | SDE | Multiple | https://paypalcareers.dejobs.org/software-engineer-university-graduate/jobs-in/usa/jobs/ | 
 | Quora | SDE | Remote | https://boards.greenhouse.io/quora2/jobs/4810866002 |
 | Robinhood | Multiple SDE and Data positions | Meno Park, CA | https://careers.robinhood.com/openings |
+| Scale AI | SDE | SF | https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27 |
 | Stripe | SDE | Dublin, New York City, San Francisco, Seattle, Singapore | https://stripe.com/jobs/search?q=NEW+GRAD |
 | VMware | SDE | Palo Alto | https://careers.vmware.com/jobs/R2009349 |
 | Wish | SDE and Data Scientist | Toronto, Seattle, and SF | https://www.wish.com/careers/jobs |
