@@ -14,6 +14,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Expedia | SDE/DS/DA/PM | Multiple | https://lifeatexpediagroup.com/jobs?keyword=NEW%20GRAD
 | Facebook | SDE | Los Angeles, Menlo Park, CA, Seattle, WA, Washington, DC, Boston, MA, New York, NY | https://www.facebook.com/careers/jobs/1559217084255670/
 | Figma | SDE | SF/NY/REMOTE  | https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3 |
+| Koder | SDE | remote | https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-koder-2009704560 |
 | L3Harris Technologies | SDE | Centreville, VA | https://careers.l3harris.com/job/-/-/4832/17160824 |
 | MangoDB | SDE | NYC | https://www.mongodb.com/careers/jobs/2309034 |
 | Nand Capital | SDE | SF | https://angel.co/company/nand-capital/jobs/769774-software-engineer-new-grad |
