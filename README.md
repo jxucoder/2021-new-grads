@@ -23,7 +23,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | IXL Learning | SDE | San Mateo | https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-ixl-learning-1967281839/ |
 | Koder | SDE | remote | https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-koder-2009704560 |
 | L3Harris Technologies | SDE | Centreville, VA | https://careers.l3harris.com/job/-/-/4832/17160824 |
-| MangoDB | SDE | NYC | https://www.mongodb.com/careers/jobs/2309034 |
+| MongoDB | SDE | NYC | https://www.mongodb.com/careers/jobs/2309034 |
 | Mogul | SDE | Seattle | https://onmogul.com/jobs/software-engineer-new-grad-2020 | 
 | Nand Capital | SDE | SF | https://angel.co/company/nand-capital/jobs/769774-software-engineer-new-grad |
 | Nightfall AI | Backed SDE | SF/Remote | https://www.linkedin.com/jobs/view/2017074072 | 
