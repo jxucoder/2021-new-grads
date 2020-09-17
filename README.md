@@ -28,7 +28,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 | Nand Capital | SDE | SF | https://angel.co/company/nand-capital/jobs/769774-software-engineer-new-grad |
 | Nightfall AI | Backed SDE | SF/Remote | https://www.linkedin.com/jobs/view/2017074072 | 
 | Neeva | SDE | MOUNTAIN VIEW | https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49 |
-| Paid | SDE | SF | https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d |
+| Plaid | SDE | SF | https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d |
 | Palantir | SDE | PALO ALTO, CA | https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0 |
 | PayPal | SDE | Multiple | https://paypalcareers.dejobs.org/software-engineer-university-graduate/jobs-in/usa/jobs/ | 
 | Qualtrics | SDE | Provo, UT or Seattle | https://boards.greenhouse.io/qualtrics | 
