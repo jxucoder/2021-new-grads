@@ -6,7 +6,7 @@ To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Affirm | Software Engineer - New Grad 2020 | San Francisco or NYC or remote | https://grnh.se/c48d8f7c3us |
+| Affirm | Software Engineer - New Grad 2020 | San Francisco or NYC or remote | https://grnh.se/7cb83d9a3us |
 | Applied Intuition | SDE | Mountain View | https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3 |
 | Benchling | SDE | SF/NYC | https://www.benchling.com/careers/?gh_jid=2235318#detail |
 | Clumio | SDE | Santa Clara | https://www.glassdoor.com/job-listing/software-engineer-university-graduate-clumio-JV_IC1147439_KO0,37_KE38,44.htm |
