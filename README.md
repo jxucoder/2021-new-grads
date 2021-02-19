@@ -1,6 +1,11 @@
 # 2021 new grads software engineering positions
 A curated list of 2021 New Grad positions
 
+
+# Moved to [newgrad.ai](https://newgrad.ai)
+
+
+
 To add position or leave comments: https://forms.gle/jddjeTT9osuETmi16
 
 ## Open Applications
