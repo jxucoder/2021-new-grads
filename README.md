@@ -1,6 +1,7 @@
 # 2021 new grads software engineering positions
 A curated list of 2021 New Grad positions
 
+tips & resources for resume: https://career.berkeley.edu/sites/default/files/pdf/Guide/ResumesCovLet.pdf
 
 # Moved to [newgrad.ai](https://newgrad.ai)
 
